@@ -1,6 +1,10 @@
 # API para APP 'Login - CRUD'
 
-_Pequeña API/Backend creada para la aplicacion del ejercicio 1, login CRUD de usuarios._
+_Pequeña API/Backend creada para la aplicacion login CRUD de usuarios._
+
+_Enlace de github a las aplicaciones que requieren de este API_
+1. Login Crud en Angular [Enlace](https://github.com/VlV-515/1-LoginCrudUsers-Angular)
+2. Login Crud en Javascript [Enlace](https://github.com/VlV-515/1-LoginCrudUsers-JS)
 
 ## Comenzando 🚀
 
